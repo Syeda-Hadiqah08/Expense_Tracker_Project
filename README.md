@@ -38,6 +38,17 @@ Make sure Python 3.x is installed on your system.
 
 ---
 
-## **📬 Feedback**
+## **👩‍💻 Author**
 
-Feel free to open issues or suggest features via GitHub. Contributions are always welcome! 😊
+**Syeda Hadiqah Fatima**  
+_Data Analyst_  
+_Karachi, Pakistan_
+
+---
+
+## **📬 Contact**
+
+Feel free to reach out with questions or feedback:
+
+**Email:** hadiqah.fatima02@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/s-hadiqah-f/
