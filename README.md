@@ -1,6 +1,6 @@
 # 💸 Expense Tracker Project
 
-An interactive and user-friendly Python program to help users track their monthly income, expenses, savings, and overall financial health. Built as a simple financial advisor, this tool helps users set savings goals and monitor progress. This is an assignment project assigned by my course instructor for "Ai & Data Science" course at SMIT.
+An interactive and user-friendly Python program to help users track their monthly income, expenses, savings, and overall financial health. Built as a simple financial advisor, this tool helps users set savings goals and monitor progress. This beginner program is an assignment project assigned by my course instructor for the "AI & Data Science" course at Saylani Mass IT Training (SMIT) institute.
 
 ---
 
